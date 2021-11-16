@@ -4,3 +4,4 @@ Inspiration taken from this [blog post](https://dev.to/lukegarrigan/genetic-algo
 
 
 TODO: fix render issue. Explain steps of genetic algo.
+TODO: create gifs showing generations.
